@@ -21,14 +21,31 @@ const Projects = [
         blog : "",
         tech_stack : "C++",
         tech_stackicons : [
-            `<img src="<box-icon type='logo' name='c-plus-plus'></box-icon>" />`
+            `<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />`
+            
             
         ],
         project_link : "https://github.com/Yarlagadda-saimanoj/Bus--BookingSystem_Project",
         project_type : "Individual Project"
 
-    }
-    ,
+    },
+
+    {
+        name : "Python BMI Application",
+        about : "Python-BMI-App is a simple but powerful Body Mass Index (BMI) calculator built using Python and Streamlit.",
+        img : "https://www.dyna-nutrition.com/wp-content/uploads/2018/10/bmi-chart.jpg",
+        gitrepo : "https://github.com/Yarlagadda-saimanoj/Python-BMI-App",
+        blog : "",
+        tech_stack : "Python",
+        tech_stackicons : [
+            `<img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821153136%21Python-logo-notext.svg" />`
+            
+        ],
+        project_link : "https://github.com/Yarlagadda-saimanoj/Python-BMI-App",
+        project_type : "Individual Project"
+
+    },
+    
     
     {
         name : "4 star on HackerRank Platform",
